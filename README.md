@@ -1,3 +1,7 @@
+API: https://api.postmon.com.br/v1/cep/
+
+![telaBuscaCep](img/telaBuscaCep.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
